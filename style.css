@@ -95,7 +95,7 @@ html{
 {
     content:"";
     position: absolute;
-    background: url('../Images/pexels-ray-piedra-1565982.jpg') no-repeat center center/cover;
+    background: url('pexels-ray-piedra-1565982.jpg') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     top: 0px;
@@ -160,7 +160,7 @@ html{
 {
     content: "";
     position: absolute;
-    background: url('../Images/pexels-polina-tankilevitch-3872434.jpg') no-repeat center center/cover;
+    background: url('pexels-polina-tankilevitch-3872434.jpg') no-repeat center center/cover;
     height: 400px;
     width: 100%;
     z-index: -1;
@@ -212,7 +212,7 @@ html{
 {
     content:"";
     position: absolute;
-    background: url('../Images/pexels-markus-winkler-4144772.jpg')no-repeat center center/cover;
+    background: url('pexels-markus-winkler-4144772.jpg')no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
